@@ -1,8 +1,6 @@
-## 1. Version Control: Cool, but why?
-
 <img src="ims/version_control_meme.jpg" alt="version control meme" width="300"/>
 
-
+## 1. Version Control: Cool, but why?
 
 **Git** is a tool that tracks changes to your code over time — like a timeline or save history for your project.
 
@@ -44,7 +42,7 @@ Here’s what you’ll usually see in a GitHub repo (and why it helps):
 
 No need to use all of these -- start simple, but know what’s out there. Clean repos are easier to use, share, and scale. A sample (but not so simple) repo structure is here: 
 
-<img src="ims/project_structure.png" alt="project structure sample" width="300"/>
+<img src="ims/project_structure.png" alt="project structure sample" width="500"/>
 
 
 ## 3. GitHub: Just Tell Me What I Need to Know
