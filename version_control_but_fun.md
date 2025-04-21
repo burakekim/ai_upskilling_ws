@@ -13,7 +13,7 @@ Why use them?
 - Work with others without overwriting each other’s code.
 - Keep your local and online versions in sync.
 
-During this workshop, your projects will live in **GitHub repos** -- shared (or private) folders where all your code, changes, and history are stored.
+You don't have to use GitHub to store your code during this workshop, but you might want to: GitHub is a great way to keep your code safe, to synchronize your code between your local computer and the remote computer where you will train models, and to share code with other participants.
 
 ### Consistent Project Structure  
 Once you’re using GitHub, having a consistent project layout makes it easier to:
@@ -409,3 +409,51 @@ Group related files into folders (`notebooks/`, `src/`, etc.), and name things c
 ## 🎉 That’s It — You Did It!
 
 If you’ve followed along this far -or even if you just scrolled your way here- **congrats**! You’ve just walked through the core of how version control things are done in the real world. Please keep using these tools during the workshop -- and beyond. You have got this \o/
+
+
+## 12. Keep Going: Level Up Your GitHub Game
+
+GitHub isn’t just a place to push code — it’s part of a broader ecosystem of **open-source practices** and **tools for writing better software**.
+
+If you're curious or excited to go further, here are some areas you might explore next:
+
+---
+
+### Technical Tools & Code Practices  
+These help make your code more readable, testable, and production-ready.
+
+- **What are all those badges in repos?**  
+  [Shields.io](https://shields.io/) — Build, test, license, and other status badges.
+
+- **Intro to GitHub Actions (CI/CD)**  
+  [GitHub Actions Docs](https://docs.github.com/en/actions) — Automate tests, builds, or anything else when someone pushes code.
+
+- **What is linting? Why does it matter?**  
+  [Introduction to Python Linting](https://realpython.com/python-pep8/) — Keep your code clean and consistent.
+
+- **Writing Tests**  
+  [pytest Intro](https://docs.pytest.org/en/stable/getting-started.html)
+
+
+- **Publishing to PyPI**  
+  [Packaging Python Projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/) — Share your code as an installable package.
+
+---
+
+### Open Source & Open Science Culture  
+These make your work more transparent, reusable, and community-friendly.
+
+- **Why license your code?**  
+  - [Choose a License](https://choosealicense.com/) — Quick guide to picking the right license.
+  - [Ethical Software Licenses](https://ethicalsource.dev/licenses/) — An initiative for ethical licenses.
+
+- **Make your research reproducible**  
+  [The Turing Way – Guide to Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
+
+- **Write better, reusable OSS code**  
+  [GitHub’s Open Source Guides](https://opensource.guide/) — Community standards, maintenance tips, etc.
+
+- **Find open projects to contribute to**  
+  - [Wildlabs OSS Forum](https://www.wildlabs.net/community/thread/oss)  
+  - [Work On Climate](https://www.workonclimate.org/)  
+  - [Good First Issue](https://goodfirstissue.dev/) — Find beginner-friendly issues on GitHub
